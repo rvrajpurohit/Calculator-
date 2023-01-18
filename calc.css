@@ -1,0 +1,31 @@
+.calc {
+    width: 320px;
+    margin: 120px auto;
+    
+}
+
+.rslt {
+    width: 294px;
+    height: 45px;
+    padding: 10px;
+    background-color:  rgb(204, 166, 166);
+    font-size: 40px;
+    text-align: right;
+    border: 3px solid #333;
+}
+
+.button {
+    background-color: rgb(0, 0, 0);
+    border: 2px solid rgb(167, 24, 24);
+    font-size: 30px;
+    color: white;
+    float: left;
+    height: 83px;
+    width: 106.5px;
+}
+
+.button1 {
+     width: 159.5px;
+     color: chocolate;
+     background-color: rgb(128, 74, 128);
+}
